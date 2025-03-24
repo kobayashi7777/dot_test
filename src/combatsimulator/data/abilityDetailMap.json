@@ -670,7 +670,7 @@
                 "bonusAccuracyRatio": 0,
                 "bonusAccuracyRatioLevelBonus": 0,
                 "damageOverTimeRatio": 1,
-                "damageOverTimeDuration": 5000000000,
+                "damageOverTimeDuration": 10000000000,
                 "pierceChance": 0,
                 "blindChance": 0,
                 "blindDuration": 0,
